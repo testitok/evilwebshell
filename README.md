@@ -1,5 +1,6 @@
-# AniYa-GUI免杀框架
-
+# AniYa-GUI免杀魔改版本框架
+感谢原来版本https://github.com/piiperxyz/AniYa
+目前免杀效果也不太行了，只是随便练练手。瞎改的逻辑和代码基本上问题不少。
 ## 免责声明
 计算md5 certutil -hashfile file MD5
 
